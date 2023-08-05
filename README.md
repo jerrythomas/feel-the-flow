@@ -6,23 +6,27 @@ This workshop will guide participants through the core components of Prefect Flo
 
 ## Workshop Outline:
 
-1. Setting Sail: Introduction (5 minutes)
+1. Setting Sail: Introduction (15 minutes)
    - Welcome and introduction to the journey
    - Brief discussion on the importance of distributed processing and its evolution
-2. Discovering the Vessel: Understanding Prefect Flow (5 minutes)
+2. Discovering the Vessel: Understanding Prefect Flow (30 minutes)
    - Introduction to Prefect Flow and its role in distributed processing
    - Highlighting the unique features and benefits of Prefect Flow
-3. Reading the Compass: Basic Concepts of Prefect Flow (5 minutes)
+   - Brief interactive Q&A to clarify concept
+3. Reading the Compass: Basic Concepts of Prefect Flow (45 minutes)
    - Explanation of the tasks, states, and flows
    - Understanding how Prefect Flow organizes and executes workflows
-4. Sailing the Seas: Building a Simple Prefect Flow (10 minutes)
+   - Interactive exercises and Q&A for participants
+4. Sailing the Seas: Hands-on Tutorial - Building a Prefect Flow (60 minutes)
    - Guided demonstration of creating and orchestrating tasks
    - Observing and managing flow state
    - Hands-on activity for participants to construct a basic Prefect Flow for distributed processing
-5. The Treasure Trove: Distributed Processing Real-World Case Study (3 minutes)
+   - Brief Q&A and troubleshooting session
+5. The Treasure Trove: Distributed Processing Real-World Case Study (15 minutes)
    - Reviewing a real-world case study showcasing the effective application of Prefect Flow in distributed processing
-6. Docking at Port: Question & Answer Session (2 minutes)
-   - Opportunity for participants to ask questions and clarify doubts
+   - Analyzing the approach, implementation, and outcomes
+6. Docking at Port: Extended Question & Answer Session (30 minutes)
+   - Opportunity for participants to ask in-depth questions, seek clarifications and discuss potential use cases
 
 The workshop will adopt an interactive, journey-oriented approach, enabling participants to not only understand Prefect Flow and distributed processing but also experience it first-hand. By the end of this journey, participants will be well-equipped to chart their own courses in the vast sea of distributed processing.
 
