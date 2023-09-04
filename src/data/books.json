@@ -1,0 +1,1594 @@
+[
+    {
+        "book_id": 1,
+        "book_title": "Book Title 1",
+        "authors": [
+            {
+                "author_id": 43,
+                "author_name": "Author 43"
+            },
+            {
+                "author_id": 95,
+                "author_name": "Author 95"
+            },
+            {
+                "author_id": 42,
+                "author_name": "Author 42"
+            }
+        ]
+    },
+    {
+        "book_id": 2,
+        "book_title": "Book Title 2",
+        "authors": [
+            {
+                "author_id": 44,
+                "author_name": "Author 44"
+            },
+            {
+                "author_id": 12,
+                "author_name": "Author 12"
+            }
+        ]
+    },
+    {
+        "book_id": 3,
+        "book_title": "Book Title 3",
+        "authors": [
+            {
+                "author_id": 28,
+                "author_name": "Author 28"
+            },
+            {
+                "author_id": 27,
+                "author_name": "Author 27"
+            }
+        ]
+    },
+    {
+        "book_id": 4,
+        "book_title": "Book Title 4",
+        "authors": [
+            {
+                "author_id": 52,
+                "author_name": "Author 52"
+            },
+            {
+                "author_id": 34,
+                "author_name": "Author 34"
+            }
+        ]
+    },
+    {
+        "book_id": 5,
+        "book_title": "Book Title 5",
+        "authors": [
+            {
+                "author_id": 43,
+                "author_name": "Author 43"
+            },
+            {
+                "author_id": 85,
+                "author_name": "Author 85"
+            }
+        ]
+    },
+    {
+        "book_id": 6,
+        "book_title": "Book Title 6",
+        "authors": [
+            {
+                "author_id": 70,
+                "author_name": "Author 70"
+            },
+            {
+                "author_id": 7,
+                "author_name": "Author 7"
+            },
+            {
+                "author_id": 51,
+                "author_name": "Author 51"
+            }
+        ]
+    },
+    {
+        "book_id": 7,
+        "book_title": "Book Title 7",
+        "authors": [
+            {
+                "author_id": 50,
+                "author_name": "Author 50"
+            },
+            {
+                "author_id": 69,
+                "author_name": "Author 69"
+            }
+        ]
+    },
+    {
+        "book_id": 8,
+        "book_title": "Book Title 8",
+        "authors": [
+            {
+                "author_id": 40,
+                "author_name": "Author 40"
+            },
+            {
+                "author_id": 4,
+                "author_name": "Author 4"
+            }
+        ]
+    },
+    {
+        "book_id": 9,
+        "book_title": "Book Title 9",
+        "authors": [
+            {
+                "author_id": 18,
+                "author_name": "Author 18"
+            },
+            {
+                "author_id": 48,
+                "author_name": "Author 48"
+            },
+            {
+                "author_id": 75,
+                "author_name": "Author 75"
+            }
+        ]
+    },
+    {
+        "book_id": 10,
+        "book_title": "Book Title 10",
+        "authors": [
+            {
+                "author_id": 76,
+                "author_name": "Author 76"
+            },
+            {
+                "author_id": 33,
+                "author_name": "Author 33"
+            }
+        ]
+    },
+    {
+        "book_id": 11,
+        "book_title": "Book Title 11",
+        "authors": [
+            {
+                "author_id": 28,
+                "author_name": "Author 28"
+            },
+            {
+                "author_id": 22,
+                "author_name": "Author 22"
+            },
+            {
+                "author_id": 72,
+                "author_name": "Author 72"
+            }
+        ]
+    },
+    {
+        "book_id": 12,
+        "book_title": "Book Title 12",
+        "authors": [
+            {
+                "author_id": 90,
+                "author_name": "Author 90"
+            },
+            {
+                "author_id": 88,
+                "author_name": "Author 88"
+            }
+        ]
+    },
+    {
+        "book_id": 13,
+        "book_title": "Book Title 13",
+        "authors": [
+            {
+                "author_id": 17,
+                "author_name": "Author 17"
+            },
+            {
+                "author_id": 26,
+                "author_name": "Author 26"
+            },
+            {
+                "author_id": 11,
+                "author_name": "Author 11"
+            }
+        ]
+    },
+    {
+        "book_id": 14,
+        "book_title": "Book Title 14",
+        "authors": [
+            {
+                "author_id": 99,
+                "author_name": "Author 99"
+            },
+            {
+                "author_id": 70,
+                "author_name": "Author 70"
+            },
+            {
+                "author_id": 9,
+                "author_name": "Author 9"
+            }
+        ]
+    },
+    {
+        "book_id": 15,
+        "book_title": "Book Title 15",
+        "authors": [
+            {
+                "author_id": 24,
+                "author_name": "Author 24"
+            },
+            {
+                "author_id": 78,
+                "author_name": "Author 78"
+            }
+        ]
+    },
+    {
+        "book_id": 16,
+        "book_title": "Book Title 16",
+        "authors": [
+            {
+                "author_id": 67,
+                "author_name": "Author 67"
+            },
+            {
+                "author_id": 26,
+                "author_name": "Author 26"
+            }
+        ]
+    },
+    {
+        "book_id": 17,
+        "book_title": "Book Title 17",
+        "authors": [
+            {
+                "author_id": 72,
+                "author_name": "Author 72"
+            },
+            {
+                "author_id": 17,
+                "author_name": "Author 17"
+            },
+            {
+                "author_id": 57,
+                "author_name": "Author 57"
+            }
+        ]
+    },
+    {
+        "book_id": 18,
+        "book_title": "Book Title 18",
+        "authors": [
+            {
+                "author_id": 35,
+                "author_name": "Author 35"
+            },
+            {
+                "author_id": 45,
+                "author_name": "Author 45"
+            },
+            {
+                "author_id": 88,
+                "author_name": "Author 88"
+            }
+        ]
+    },
+    {
+        "book_id": 19,
+        "book_title": "Book Title 19",
+        "authors": [
+            {
+                "author_id": 50,
+                "author_name": "Author 50"
+            },
+            {
+                "author_id": 59,
+                "author_name": "Author 59"
+            }
+        ]
+    },
+    {
+        "book_id": 20,
+        "book_title": "Book Title 20",
+        "authors": [
+            {
+                "author_id": 57,
+                "author_name": "Author 57"
+            },
+            {
+                "author_id": 90,
+                "author_name": "Author 90"
+            },
+            {
+                "author_id": 53,
+                "author_name": "Author 53"
+            }
+        ]
+    },
+    {
+        "book_id": 21,
+        "book_title": "Book Title 21",
+        "authors": [
+            {
+                "author_id": 83,
+                "author_name": "Author 83"
+            },
+            {
+                "author_id": 97,
+                "author_name": "Author 97"
+            }
+        ]
+    },
+    {
+        "book_id": 22,
+        "book_title": "Book Title 22",
+        "authors": [
+            {
+                "author_id": 97,
+                "author_name": "Author 97"
+            },
+            {
+                "author_id": 44,
+                "author_name": "Author 44"
+            }
+        ]
+    },
+    {
+        "book_id": 23,
+        "book_title": "Book Title 23",
+        "authors": [
+            {
+                "author_id": 38,
+                "author_name": "Author 38"
+            },
+            {
+                "author_id": 85,
+                "author_name": "Author 85"
+            },
+            {
+                "author_id": 92,
+                "author_name": "Author 92"
+            }
+        ]
+    },
+    {
+        "book_id": 24,
+        "book_title": "Book Title 24",
+        "authors": [
+            {
+                "author_id": 56,
+                "author_name": "Author 56"
+            },
+            {
+                "author_id": 93,
+                "author_name": "Author 93"
+            }
+        ]
+    },
+    {
+        "book_id": 25,
+        "book_title": "Book Title 25",
+        "authors": [
+            {
+                "author_id": 11,
+                "author_name": "Author 11"
+            },
+            {
+                "author_id": 67,
+                "author_name": "Author 67"
+            },
+            {
+                "author_id": 55,
+                "author_name": "Author 55"
+            }
+        ]
+    },
+    {
+        "book_id": 26,
+        "book_title": "Book Title 26",
+        "authors": [
+            {
+                "author_id": 52,
+                "author_name": "Author 52"
+            },
+            {
+                "author_id": 75,
+                "author_name": "Author 75"
+            }
+        ]
+    },
+    {
+        "book_id": 27,
+        "book_title": "Book Title 27",
+        "authors": [
+            {
+                "author_id": 86,
+                "author_name": "Author 86"
+            },
+            {
+                "author_id": 50,
+                "author_name": "Author 50"
+            }
+        ]
+    },
+    {
+        "book_id": 28,
+        "book_title": "Book Title 28",
+        "authors": [
+            {
+                "author_id": 23,
+                "author_name": "Author 23"
+            },
+            {
+                "author_id": 71,
+                "author_name": "Author 71"
+            }
+        ]
+    },
+    {
+        "book_id": 29,
+        "book_title": "Book Title 29",
+        "authors": [
+            {
+                "author_id": 64,
+                "author_name": "Author 64"
+            },
+            {
+                "author_id": 93,
+                "author_name": "Author 93"
+            },
+            {
+                "author_id": 77,
+                "author_name": "Author 77"
+            }
+        ]
+    },
+    {
+        "book_id": 30,
+        "book_title": "Book Title 30",
+        "authors": [
+            {
+                "author_id": 78,
+                "author_name": "Author 78"
+            },
+            {
+                "author_id": 66,
+                "author_name": "Author 66"
+            }
+        ]
+    },
+    {
+        "book_id": 31,
+        "book_title": "Book Title 31",
+        "authors": [
+            {
+                "author_id": 63,
+                "author_name": "Author 63"
+            },
+            {
+                "author_id": 58,
+                "author_name": "Author 58"
+            },
+            {
+                "author_id": 77,
+                "author_name": "Author 77"
+            }
+        ]
+    },
+    {
+        "book_id": 32,
+        "book_title": "Book Title 32",
+        "authors": [
+            {
+                "author_id": 84,
+                "author_name": "Author 84"
+            },
+            {
+                "author_id": 71,
+                "author_name": "Author 71"
+            },
+            {
+                "author_id": 72,
+                "author_name": "Author 72"
+            }
+        ]
+    },
+    {
+        "book_id": 33,
+        "book_title": "Book Title 33",
+        "authors": [
+            {
+                "author_id": 53,
+                "author_name": "Author 53"
+            },
+            {
+                "author_id": 77,
+                "author_name": "Author 77"
+            }
+        ]
+    },
+    {
+        "book_id": 34,
+        "book_title": "Book Title 34",
+        "authors": [
+            {
+                "author_id": 43,
+                "author_name": "Author 43"
+            },
+            {
+                "author_id": 66,
+                "author_name": "Author 66"
+            }
+        ]
+    },
+    {
+        "book_id": 35,
+        "book_title": "Book Title 35",
+        "authors": [
+            {
+                "author_id": 97,
+                "author_name": "Author 97"
+            },
+            {
+                "author_id": 5,
+                "author_name": "Author 5"
+            },
+            {
+                "author_id": 34,
+                "author_name": "Author 34"
+            }
+        ]
+    },
+    {
+        "book_id": 36,
+        "book_title": "Book Title 36",
+        "authors": [
+            {
+                "author_id": 78,
+                "author_name": "Author 78"
+            },
+            {
+                "author_id": 71,
+                "author_name": "Author 71"
+            },
+            {
+                "author_id": 53,
+                "author_name": "Author 53"
+            }
+        ]
+    },
+    {
+        "book_id": 37,
+        "book_title": "Book Title 37",
+        "authors": [
+            {
+                "author_id": 56,
+                "author_name": "Author 56"
+            },
+            {
+                "author_id": 20,
+                "author_name": "Author 20"
+            },
+            {
+                "author_id": 45,
+                "author_name": "Author 45"
+            }
+        ]
+    },
+    {
+        "book_id": 38,
+        "book_title": "Book Title 38",
+        "authors": [
+            {
+                "author_id": 87,
+                "author_name": "Author 87"
+            },
+            {
+                "author_id": 81,
+                "author_name": "Author 81"
+            },
+            {
+                "author_id": 68,
+                "author_name": "Author 68"
+            }
+        ]
+    },
+    {
+        "book_id": 39,
+        "book_title": "Book Title 39",
+        "authors": [
+            {
+                "author_id": 91,
+                "author_name": "Author 91"
+            },
+            {
+                "author_id": 72,
+                "author_name": "Author 72"
+            }
+        ]
+    },
+    {
+        "book_id": 40,
+        "book_title": "Book Title 40",
+        "authors": [
+            {
+                "author_id": 3,
+                "author_name": "Author 3"
+            },
+            {
+                "author_id": 19,
+                "author_name": "Author 19"
+            },
+            {
+                "author_id": 29,
+                "author_name": "Author 29"
+            }
+        ]
+    },
+    {
+        "book_id": 41,
+        "book_title": "Book Title 41",
+        "authors": [
+            {
+                "author_id": 5,
+                "author_name": "Author 5"
+            },
+            {
+                "author_id": 3,
+                "author_name": "Author 3"
+            }
+        ]
+    },
+    {
+        "book_id": 42,
+        "book_title": "Book Title 42",
+        "authors": [
+            {
+                "author_id": 13,
+                "author_name": "Author 13"
+            },
+            {
+                "author_id": 59,
+                "author_name": "Author 59"
+            }
+        ]
+    },
+    {
+        "book_id": 43,
+        "book_title": "Book Title 43",
+        "authors": [
+            {
+                "author_id": 39,
+                "author_name": "Author 39"
+            },
+            {
+                "author_id": 36,
+                "author_name": "Author 36"
+            }
+        ]
+    },
+    {
+        "book_id": 44,
+        "book_title": "Book Title 44",
+        "authors": [
+            {
+                "author_id": 91,
+                "author_name": "Author 91"
+            },
+            {
+                "author_id": 5,
+                "author_name": "Author 5"
+            }
+        ]
+    },
+    {
+        "book_id": 45,
+        "book_title": "Book Title 45",
+        "authors": [
+            {
+                "author_id": 7,
+                "author_name": "Author 7"
+            },
+            {
+                "author_id": 15,
+                "author_name": "Author 15"
+            }
+        ]
+    },
+    {
+        "book_id": 46,
+        "book_title": "Book Title 46",
+        "authors": [
+            {
+                "author_id": 99,
+                "author_name": "Author 99"
+            },
+            {
+                "author_id": 94,
+                "author_name": "Author 94"
+            }
+        ]
+    },
+    {
+        "book_id": 47,
+        "book_title": "Book Title 47",
+        "authors": [
+            {
+                "author_id": 81,
+                "author_name": "Author 81"
+            },
+            {
+                "author_id": 90,
+                "author_name": "Author 90"
+            }
+        ]
+    },
+    {
+        "book_id": 48,
+        "book_title": "Book Title 48",
+        "authors": [
+            {
+                "author_id": 75,
+                "author_name": "Author 75"
+            },
+            {
+                "author_id": 96,
+                "author_name": "Author 96"
+            },
+            {
+                "author_id": 71,
+                "author_name": "Author 71"
+            }
+        ]
+    },
+    {
+        "book_id": 49,
+        "book_title": "Book Title 49",
+        "authors": [
+            {
+                "author_id": 48,
+                "author_name": "Author 48"
+            },
+            {
+                "author_id": 27,
+                "author_name": "Author 27"
+            },
+            {
+                "author_id": 50,
+                "author_name": "Author 50"
+            }
+        ]
+    },
+    {
+        "book_id": 50,
+        "book_title": "Book Title 50",
+        "authors": [
+            {
+                "author_id": 56,
+                "author_name": "Author 56"
+            },
+            {
+                "author_id": 9,
+                "author_name": "Author 9"
+            },
+            {
+                "author_id": 32,
+                "author_name": "Author 32"
+            }
+        ]
+    },
+    {
+        "book_id": 51,
+        "book_title": "Book Title 51",
+        "authors": [
+            {
+                "author_id": 76,
+                "author_name": "Author 76"
+            },
+            {
+                "author_id": 80,
+                "author_name": "Author 80"
+            },
+            {
+                "author_id": 35,
+                "author_name": "Author 35"
+            }
+        ]
+    },
+    {
+        "book_id": 52,
+        "book_title": "Book Title 52",
+        "authors": [
+            {
+                "author_id": 89,
+                "author_name": "Author 89"
+            },
+            {
+                "author_id": 88,
+                "author_name": "Author 88"
+            }
+        ]
+    },
+    {
+        "book_id": 53,
+        "book_title": "Book Title 53",
+        "authors": [
+            {
+                "author_id": 100,
+                "author_name": "Author 100"
+            },
+            {
+                "author_id": 99,
+                "author_name": "Author 99"
+            },
+            {
+                "author_id": 64,
+                "author_name": "Author 64"
+            }
+        ]
+    },
+    {
+        "book_id": 54,
+        "book_title": "Book Title 54",
+        "authors": [
+            {
+                "author_id": 53,
+                "author_name": "Author 53"
+            },
+            {
+                "author_id": 86,
+                "author_name": "Author 86"
+            },
+            {
+                "author_id": 45,
+                "author_name": "Author 45"
+            }
+        ]
+    },
+    {
+        "book_id": 55,
+        "book_title": "Book Title 55",
+        "authors": [
+            {
+                "author_id": 12,
+                "author_name": "Author 12"
+            },
+            {
+                "author_id": 27,
+                "author_name": "Author 27"
+            },
+            {
+                "author_id": 97,
+                "author_name": "Author 97"
+            }
+        ]
+    },
+    {
+        "book_id": 56,
+        "book_title": "Book Title 56",
+        "authors": [
+            {
+                "author_id": 2,
+                "author_name": "Author 2"
+            },
+            {
+                "author_id": 38,
+                "author_name": "Author 38"
+            },
+            {
+                "author_id": 65,
+                "author_name": "Author 65"
+            }
+        ]
+    },
+    {
+        "book_id": 57,
+        "book_title": "Book Title 57",
+        "authors": [
+            {
+                "author_id": 95,
+                "author_name": "Author 95"
+            },
+            {
+                "author_id": 48,
+                "author_name": "Author 48"
+            },
+            {
+                "author_id": 21,
+                "author_name": "Author 21"
+            }
+        ]
+    },
+    {
+        "book_id": 58,
+        "book_title": "Book Title 58",
+        "authors": [
+            {
+                "author_id": 36,
+                "author_name": "Author 36"
+            },
+            {
+                "author_id": 23,
+                "author_name": "Author 23"
+            }
+        ]
+    },
+    {
+        "book_id": 59,
+        "book_title": "Book Title 59",
+        "authors": [
+            {
+                "author_id": 66,
+                "author_name": "Author 66"
+            },
+            {
+                "author_id": 48,
+                "author_name": "Author 48"
+            },
+            {
+                "author_id": 9,
+                "author_name": "Author 9"
+            }
+        ]
+    },
+    {
+        "book_id": 60,
+        "book_title": "Book Title 60",
+        "authors": [
+            {
+                "author_id": 61,
+                "author_name": "Author 61"
+            },
+            {
+                "author_id": 71,
+                "author_name": "Author 71"
+            }
+        ]
+    },
+    {
+        "book_id": 61,
+        "book_title": "Book Title 61",
+        "authors": [
+            {
+                "author_id": 41,
+                "author_name": "Author 41"
+            },
+            {
+                "author_id": 17,
+                "author_name": "Author 17"
+            }
+        ]
+    },
+    {
+        "book_id": 62,
+        "book_title": "Book Title 62",
+        "authors": [
+            {
+                "author_id": 33,
+                "author_name": "Author 33"
+            },
+            {
+                "author_id": 10,
+                "author_name": "Author 10"
+            },
+            {
+                "author_id": 5,
+                "author_name": "Author 5"
+            }
+        ]
+    },
+    {
+        "book_id": 63,
+        "book_title": "Book Title 63",
+        "authors": [
+            {
+                "author_id": 23,
+                "author_name": "Author 23"
+            },
+            {
+                "author_id": 89,
+                "author_name": "Author 89"
+            }
+        ]
+    },
+    {
+        "book_id": 64,
+        "book_title": "Book Title 64",
+        "authors": [
+            {
+                "author_id": 18,
+                "author_name": "Author 18"
+            },
+            {
+                "author_id": 80,
+                "author_name": "Author 80"
+            },
+            {
+                "author_id": 78,
+                "author_name": "Author 78"
+            }
+        ]
+    },
+    {
+        "book_id": 65,
+        "book_title": "Book Title 65",
+        "authors": [
+            {
+                "author_id": 85,
+                "author_name": "Author 85"
+            },
+            {
+                "author_id": 16,
+                "author_name": "Author 16"
+            },
+            {
+                "author_id": 70,
+                "author_name": "Author 70"
+            }
+        ]
+    },
+    {
+        "book_id": 66,
+        "book_title": "Book Title 66",
+        "authors": [
+            {
+                "author_id": 1,
+                "author_name": "Author 1"
+            },
+            {
+                "author_id": 42,
+                "author_name": "Author 42"
+            },
+            {
+                "author_id": 71,
+                "author_name": "Author 71"
+            }
+        ]
+    },
+    {
+        "book_id": 67,
+        "book_title": "Book Title 67",
+        "authors": [
+            {
+                "author_id": 91,
+                "author_name": "Author 91"
+            },
+            {
+                "author_id": 94,
+                "author_name": "Author 94"
+            },
+            {
+                "author_id": 9,
+                "author_name": "Author 9"
+            }
+        ]
+    },
+    {
+        "book_id": 68,
+        "book_title": "Book Title 68",
+        "authors": [
+            {
+                "author_id": 28,
+                "author_name": "Author 28"
+            },
+            {
+                "author_id": 59,
+                "author_name": "Author 59"
+            },
+            {
+                "author_id": 67,
+                "author_name": "Author 67"
+            }
+        ]
+    },
+    {
+        "book_id": 69,
+        "book_title": "Book Title 69",
+        "authors": [
+            {
+                "author_id": 69,
+                "author_name": "Author 69"
+            },
+            {
+                "author_id": 3,
+                "author_name": "Author 3"
+            }
+        ]
+    },
+    {
+        "book_id": 70,
+        "book_title": "Book Title 70",
+        "authors": [
+            {
+                "author_id": 58,
+                "author_name": "Author 58"
+            },
+            {
+                "author_id": 85,
+                "author_name": "Author 85"
+            }
+        ]
+    },
+    {
+        "book_id": 71,
+        "book_title": "Book Title 71",
+        "authors": [
+            {
+                "author_id": 47,
+                "author_name": "Author 47"
+            },
+            {
+                "author_id": 2,
+                "author_name": "Author 2"
+            }
+        ]
+    },
+    {
+        "book_id": 72,
+        "book_title": "Book Title 72",
+        "authors": [
+            {
+                "author_id": 35,
+                "author_name": "Author 35"
+            },
+            {
+                "author_id": 10,
+                "author_name": "Author 10"
+            }
+        ]
+    },
+    {
+        "book_id": 73,
+        "book_title": "Book Title 73",
+        "authors": [
+            {
+                "author_id": 54,
+                "author_name": "Author 54"
+            },
+            {
+                "author_id": 88,
+                "author_name": "Author 88"
+            }
+        ]
+    },
+    {
+        "book_id": 74,
+        "book_title": "Book Title 74",
+        "authors": [
+            {
+                "author_id": 85,
+                "author_name": "Author 85"
+            },
+            {
+                "author_id": 56,
+                "author_name": "Author 56"
+            }
+        ]
+    },
+    {
+        "book_id": 75,
+        "book_title": "Book Title 75",
+        "authors": [
+            {
+                "author_id": 96,
+                "author_name": "Author 96"
+            },
+            {
+                "author_id": 37,
+                "author_name": "Author 37"
+            },
+            {
+                "author_id": 67,
+                "author_name": "Author 67"
+            }
+        ]
+    },
+    {
+        "book_id": 76,
+        "book_title": "Book Title 76",
+        "authors": [
+            {
+                "author_id": 6,
+                "author_name": "Author 6"
+            },
+            {
+                "author_id": 64,
+                "author_name": "Author 64"
+            },
+            {
+                "author_id": 8,
+                "author_name": "Author 8"
+            }
+        ]
+    },
+    {
+        "book_id": 77,
+        "book_title": "Book Title 77",
+        "authors": [
+            {
+                "author_id": 33,
+                "author_name": "Author 33"
+            },
+            {
+                "author_id": 1,
+                "author_name": "Author 1"
+            }
+        ]
+    },
+    {
+        "book_id": 78,
+        "book_title": "Book Title 78",
+        "authors": [
+            {
+                "author_id": 1,
+                "author_name": "Author 1"
+            },
+            {
+                "author_id": 64,
+                "author_name": "Author 64"
+            },
+            {
+                "author_id": 100,
+                "author_name": "Author 100"
+            }
+        ]
+    },
+    {
+        "book_id": 79,
+        "book_title": "Book Title 79",
+        "authors": [
+            {
+                "author_id": 69,
+                "author_name": "Author 69"
+            },
+            {
+                "author_id": 1,
+                "author_name": "Author 1"
+            },
+            {
+                "author_id": 10,
+                "author_name": "Author 10"
+            }
+        ]
+    },
+    {
+        "book_id": 80,
+        "book_title": "Book Title 80",
+        "authors": [
+            {
+                "author_id": 76,
+                "author_name": "Author 76"
+            },
+            {
+                "author_id": 1,
+                "author_name": "Author 1"
+            }
+        ]
+    },
+    {
+        "book_id": 81,
+        "book_title": "Book Title 81",
+        "authors": [
+            {
+                "author_id": 37,
+                "author_name": "Author 37"
+            },
+            {
+                "author_id": 88,
+                "author_name": "Author 88"
+            }
+        ]
+    },
+    {
+        "book_id": 82,
+        "book_title": "Book Title 82",
+        "authors": [
+            {
+                "author_id": 38,
+                "author_name": "Author 38"
+            },
+            {
+                "author_id": 23,
+                "author_name": "Author 23"
+            },
+            {
+                "author_id": 71,
+                "author_name": "Author 71"
+            }
+        ]
+    },
+    {
+        "book_id": 83,
+        "book_title": "Book Title 83",
+        "authors": [
+            {
+                "author_id": 78,
+                "author_name": "Author 78"
+            },
+            {
+                "author_id": 90,
+                "author_name": "Author 90"
+            },
+            {
+                "author_id": 34,
+                "author_name": "Author 34"
+            }
+        ]
+    },
+    {
+        "book_id": 84,
+        "book_title": "Book Title 84",
+        "authors": [
+            {
+                "author_id": 95,
+                "author_name": "Author 95"
+            },
+            {
+                "author_id": 25,
+                "author_name": "Author 25"
+            },
+            {
+                "author_id": 80,
+                "author_name": "Author 80"
+            }
+        ]
+    },
+    {
+        "book_id": 85,
+        "book_title": "Book Title 85",
+        "authors": [
+            {
+                "author_id": 75,
+                "author_name": "Author 75"
+            },
+            {
+                "author_id": 48,
+                "author_name": "Author 48"
+            },
+            {
+                "author_id": 76,
+                "author_name": "Author 76"
+            }
+        ]
+    },
+    {
+        "book_id": 86,
+        "book_title": "Book Title 86",
+        "authors": [
+            {
+                "author_id": 77,
+                "author_name": "Author 77"
+            },
+            {
+                "author_id": 69,
+                "author_name": "Author 69"
+            }
+        ]
+    },
+    {
+        "book_id": 87,
+        "book_title": "Book Title 87",
+        "authors": [
+            {
+                "author_id": 75,
+                "author_name": "Author 75"
+            },
+            {
+                "author_id": 44,
+                "author_name": "Author 44"
+            }
+        ]
+    },
+    {
+        "book_id": 88,
+        "book_title": "Book Title 88",
+        "authors": [
+            {
+                "author_id": 65,
+                "author_name": "Author 65"
+            },
+            {
+                "author_id": 8,
+                "author_name": "Author 8"
+            }
+        ]
+    },
+    {
+        "book_id": 89,
+        "book_title": "Book Title 89",
+        "authors": [
+            {
+                "author_id": 9,
+                "author_name": "Author 9"
+            },
+            {
+                "author_id": 58,
+                "author_name": "Author 58"
+            }
+        ]
+    },
+    {
+        "book_id": 90,
+        "book_title": "Book Title 90",
+        "authors": [
+            {
+                "author_id": 58,
+                "author_name": "Author 58"
+            },
+            {
+                "author_id": 88,
+                "author_name": "Author 88"
+            },
+            {
+                "author_id": 46,
+                "author_name": "Author 46"
+            }
+        ]
+    },
+    {
+        "book_id": 91,
+        "book_title": "Book Title 91",
+        "authors": [
+            {
+                "author_id": 76,
+                "author_name": "Author 76"
+            },
+            {
+                "author_id": 5,
+                "author_name": "Author 5"
+            },
+            {
+                "author_id": 100,
+                "author_name": "Author 100"
+            }
+        ]
+    },
+    {
+        "book_id": 92,
+        "book_title": "Book Title 92",
+        "authors": [
+            {
+                "author_id": 99,
+                "author_name": "Author 99"
+            },
+            {
+                "author_id": 7,
+                "author_name": "Author 7"
+            }
+        ]
+    },
+    {
+        "book_id": 93,
+        "book_title": "Book Title 93",
+        "authors": [
+            {
+                "author_id": 22,
+                "author_name": "Author 22"
+            },
+            {
+                "author_id": 47,
+                "author_name": "Author 47"
+            }
+        ]
+    },
+    {
+        "book_id": 94,
+        "book_title": "Book Title 94",
+        "authors": [
+            {
+                "author_id": 4,
+                "author_name": "Author 4"
+            },
+            {
+                "author_id": 31,
+                "author_name": "Author 31"
+            },
+            {
+                "author_id": 42,
+                "author_name": "Author 42"
+            }
+        ]
+    },
+    {
+        "book_id": 95,
+        "book_title": "Book Title 95",
+        "authors": [
+            {
+                "author_id": 4,
+                "author_name": "Author 4"
+            },
+            {
+                "author_id": 88,
+                "author_name": "Author 88"
+            }
+        ]
+    },
+    {
+        "book_id": 96,
+        "book_title": "Book Title 96",
+        "authors": [
+            {
+                "author_id": 63,
+                "author_name": "Author 63"
+            },
+            {
+                "author_id": 56,
+                "author_name": "Author 56"
+            },
+            {
+                "author_id": 52,
+                "author_name": "Author 52"
+            }
+        ]
+    },
+    {
+        "book_id": 97,
+        "book_title": "Book Title 97",
+        "authors": [
+            {
+                "author_id": 17,
+                "author_name": "Author 17"
+            },
+            {
+                "author_id": 29,
+                "author_name": "Author 29"
+            }
+        ]
+    },
+    {
+        "book_id": 98,
+        "book_title": "Book Title 98",
+        "authors": [
+            {
+                "author_id": 41,
+                "author_name": "Author 41"
+            },
+            {
+                "author_id": 9,
+                "author_name": "Author 9"
+            }
+        ]
+    },
+    {
+        "book_id": 99,
+        "book_title": "Book Title 99",
+        "authors": [
+            {
+                "author_id": 2,
+                "author_name": "Author 2"
+            },
+            {
+                "author_id": 6,
+                "author_name": "Author 6"
+            }
+        ]
+    },
+    {
+        "book_id": 100,
+        "book_title": "Book Title 100",
+        "authors": [
+            {
+                "author_id": 20,
+                "author_name": "Author 20"
+            },
+            {
+                "author_id": 51,
+                "author_name": "Author 51"
+            },
+            {
+                "author_id": 94,
+                "author_name": "Author 94"
+            }
+        ]
+    }
+]
